@@ -9,7 +9,7 @@ Create an application that generates a random password based on user-selected cr
 5. Uppercase letters
 
 
-![prompt](./Assets/prompt.png)
+![prompt](./Asset/prompt.png)
 
 ## User Story
 
@@ -22,7 +22,7 @@ SO THAT I can create a strong password that provides greater security
 ## Contributors
 Jahugawugasuga
 
-![output](./Assets/output.png)
+![output](./Asset/output.png)
 
 ## Technology
 CSS, Javascript, HTML
